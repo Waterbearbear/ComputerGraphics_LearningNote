@@ -1,0 +1,2 @@
+E:\GameDevelopment\GameLearn\RayTracingoneweekend\RayTracingOneWeedend\Debug\RayTracingOneWeedend.exe
+E:\GameDevelopment\GameLearn\RayTracingoneweekend\RayTracingOneWeedend\Debug\RayTracingOneWeedend.pdb
